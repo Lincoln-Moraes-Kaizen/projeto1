@@ -1,2 +1,2 @@
 # projeto1
-Aprender a sar o Github
+Aprender a usar o Github
